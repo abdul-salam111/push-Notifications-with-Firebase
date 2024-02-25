@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1004723560299",
+    "project_id": "pushnotification-2df8d",
+    "storage_bucket": "pushnotification-2df8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004723560299:android:4bcc9ccf49967b5afdb62e",
+        "android_client_info": {
+          "package_name": "com.abdul.salam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQYXmHeeUpsQ83YIxgu467WGt7zEfvaQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
